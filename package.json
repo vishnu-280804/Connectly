@@ -5,8 +5,8 @@
   "scripts": {
     "server": "npm start --prefix back-end",
     "client": "npm start --prefix front-end",
-    "build": "cd front-end && npm install && npm run build && cd ../back-end && npm install",
-    "start": "cd back-end && node index.js"
+    "build": "npm install && npm run build && cd ../back-end && npm install",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
