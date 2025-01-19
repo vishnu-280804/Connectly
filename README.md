@@ -1,6 +1,3 @@
-Here’s a complete `README.md` file for your GitHub repository `Connectly`:  
-
-```markdown
 # Connectly  
 
 Connectly is a dynamic and user-friendly chat application designed to simplify and enhance communication between individuals. With its seamless sign-in and sign-up process, users can quickly create accounts and connect with friends or colleagues. The application facilitates one-on-one messaging and allows users to share photos, providing a smooth and engaging chat experience.  
@@ -34,25 +31,25 @@ Connectly is built to enhance user interaction with the following features:
 
 Follow these steps to set up the project locally:  
 
-### 1. **Cloning the Repository**  
+### 1. Cloning the Repository  
 ```bash
 git clone https://github.com/vishnu-28082004/Connectly.git
 cd Connectly
 ```
 
-### 2. **Installing Dependencies**  
+### 2. Installing Dependencies  
 Install all required dependencies using:  
 ```bash
 npm install
 ```
 
-### 3. **Building the Project**  
+### 3. Building the Project  
 Run the following command to build the project:  
 ```bash
 npm run build
 ```
 
-### 4. **Starting the Application**  
+### 4. Starting the Application  
 Start the development server using:  
 ```bash
 npm start
@@ -66,17 +63,9 @@ Feel free to contribute to the project by creating pull requests or reporting is
 For major changes, please open an issue first to discuss what you would like to change.  
 
 ---
-
-## License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
-
 ---
 
 ## Author  
 
 **Vishnu**  
 [GitHub Profile](https://github.com/vishnu-28082004)  
-```  
-
-Copy and save this content into a `README.md` file in your repository. Let me know if you'd like any further customizations!
