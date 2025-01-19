@@ -27,6 +27,15 @@ Connectly is built to enhance user interaction with the following features:
 
 ---
 
+## Technologies Used  
+
+- **MongoDB**
+- **Express.js**
+- **React.js**
+- **Node.js** 
+
+---
+
 ## Installation  
 
 Follow these steps to set up the project locally:  
@@ -63,6 +72,7 @@ Feel free to contribute to the project by creating pull requests or reporting is
 For major changes, please open an issue first to discuss what you would like to change.  
 
 ---
+
 ---
 
 ## Author  
